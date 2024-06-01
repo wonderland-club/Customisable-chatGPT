@@ -1,7 +1,5 @@
 `该项目使用是我与 chatGPT-4o 一起合作完成的，readme文档由chatGPT-4o编写，我有所修改`
 
-当然，这里是一份详细的 README 文档，初学者也能看懂，从激活虚拟环境开始，涵盖所有步骤。
-
 ---
 
 # Flask Azure OpenAI Chatbot
@@ -81,3 +79,9 @@ http://127.0.0.1:3000
 ```
 
 你现在应该可以看到聊天应用的主页，并开始与 Azure OpenAI 机器人进行对话。
+
+### 8. 公网访问
+
+如果想让所有人都访问，可以使用[内网穿透](https://www.freecodecamp.org/chinese/news/intranet-penetration/)，我的另一篇 blog 有解释内网穿透，内网穿透之后可以实现在公共网络上访问。
+
+内网穿透推荐工具：https://natapp.cn
